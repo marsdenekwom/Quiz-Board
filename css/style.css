@@ -5,3 +5,6 @@ h1 {
   text-align: center;
   color: crimson;
 }
+p {
+  font-style: italic;
+}
